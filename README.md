@@ -24,11 +24,11 @@ In the Streamlit web interface:
 ### Step 3: Verify the Blockchain Data
 Inspect the blockchain's data in the Streamlit application, especially the block contents and hash values.
 
-![Blockchain Details Screenshot](images/pychain_ledger)
+![Blockchain Details Screenshot](Images/pychain_ledger.png)
 
 ### Step 4: Validate the Blockchain
 Using the web interface, click the "Validate Chain" button to ensure the integrity of the blockchain. The application will indicate the validity of the blockchain.
 
-![Blockchain Validation Screenshot](path_to_your_second_screenshot_here.png)
+![Blockchain Validation Screenshot](Images/validation.png)
 
 
